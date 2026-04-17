@@ -1,5 +1,8 @@
-var number = 50;   //create variable
 
-number = 100;      //update value
+let marks = 80;   // Create let variable
 
-console.log("Final Value is:", number);  //print final value
+
+marks = marks + 10;   // Add 10 marks
+
+
+console.log("Final Marks is:", marks);    // Print final result
