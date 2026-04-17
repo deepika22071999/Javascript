@@ -1,6 +1,5 @@
+let age = 18;
 
-console.log("5 > 2 && 10 > 3 :", 5 > 2 && 10 > 3);
+let result = (age >= 18) ? "Eligible" : "Not Eligible";
 
-console.log("7 < 5 || 8 > 2 :", 7 < 5 || 8 > 2);
-
-console.log("!(10 > 5) :", !(10 > 5));
+console.log(result);
