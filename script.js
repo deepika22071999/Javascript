@@ -1,15 +1,19 @@
-// Create object
+// Addition
 
-let student = {
-    name: "Deepika",
-    age: 25,
-    course: "MERN"
-};
+console.log("20 + 10 =", 20 + 10);
 
-// Print name
+// Subtraction
 
-console.log("Student Name:", student.name);
+console.log("50 - 25 =", 50 - 25);
 
-// Print age
+// Multiplication
 
-console.log("Student Age:", student.age);
+console.log("5 * 5 =", 5 * 5);
+
+// Division
+
+console.log("100 / 4 =", 100 / 4);
+
+// Modulus
+
+console.log("20 % 3 =", 20 % 3);
