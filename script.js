@@ -1,19 +1,11 @@
-// Addition
+// Increment
 
-console.log("20 + 10 =", 20 + 10);
+let x = 5;
+x++;
+console.log("Value of x after increment:", x);
 
-// Subtraction
+// Decrement
 
-console.log("50 - 25 =", 50 - 25);
-
-// Multiplication
-
-console.log("5 * 5 =", 5 * 5);
-
-// Division
-
-console.log("100 / 4 =", 100 / 4);
-
-// Modulus
-
-console.log("20 % 3 =", 20 % 3);
+let y = 10;
+y--;
+console.log("Value of y after decrement:", y);
