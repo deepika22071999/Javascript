@@ -1,8 +1,8 @@
 
-console.log("Welcome Team");   // Print String
+console.log(typeof "JavaScript");   // Check datatype of string
 
 
-console.log(2026);    // Print Number
+console.log(typeof 250);     // Check datatype of number
 
 
-console.log(true);    // Print Boolean
+console.log(typeof false);    // Check datatype of boolean
