@@ -1,8 +1,8 @@
 
-let marks = 80;   // Create let variable
+const price = 500;     // Create const variable
 
 
-marks = marks + 10;   // Add 10 marks
+let finalPrice = price + 100;    // Create another variable and add 100
 
 
-console.log("Final Marks is:", marks);    // Print final result
+console.log("Final Price is:", finalPrice);     // Print finalPrice
