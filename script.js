@@ -1,11 +1,9 @@
-// Increment
+console.log("10 > 5 :", 10 > 5);
 
-let x = 5;
-x++;
-console.log("Value of x after increment:", x);
+console.log("5 < 2 :", 5 < 2);
 
-// Decrement
+console.log("20 == \"20\" :", 20 == "20");
 
-let y = 10;
-y--;
-console.log("Value of y after decrement:", y);
+console.log("15 === \"15\" :", 15 === "15");
+
+console.log("10 != 8 :", 10 != 8);
