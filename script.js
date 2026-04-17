@@ -1,15 +1,15 @@
-// Create array with 5 fruits
+// Create object
 
-let fruits = ["Apple", "Banana", "Mango", "Orange", "Grapes"];
+let student = {
+    name: "Deepika",
+    age: 25,
+    course: "MERN"
+};
 
-// Print full array
+// Print name
 
-console.log("Full Array:", fruits);
+console.log("Student Name:", student.name);
 
-// Print first fruit (index 0)
+// Print age
 
-console.log("First Fruit:", fruits[0]);
-
-// Print last fruit (length - 1)
-
-console.log("Last Fruit:", fruits[fruits.length - 1]);
+console.log("Student Age:", student.age);
