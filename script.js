@@ -1,8 +1,8 @@
 
-const price = 500;     // Create const variable
+console.log("Welcome Team");   // Print String
 
 
-let finalPrice = price + 100;    // Create another variable and add 100
+console.log(2026);    // Print Number
 
 
-console.log("Final Price is:", finalPrice);     // Print finalPrice
+console.log(true);    // Print Boolean
